@@ -9,4 +9,4 @@ Don't be it!
 ![](TestRun_title.png)
 ![](Testrun_ingame.png)
 
-Programmed by Alexander Jun, 2022
+Programmed by Alexander Jun, Fall 2022
